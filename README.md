@@ -1,4 +1,5 @@
-Zircuit Testnet - Deploy Conctract
+# Zircuit Testnet - Deploy Conctract
+---
 This deployer is very easy to use.
 You can modify the contract or add a new contract.
 Clone the repository -> git clone 'https://github.com/DonMed00/zircuit-deployer'
